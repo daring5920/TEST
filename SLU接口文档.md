@@ -241,7 +241,7 @@ GET /rpc/transfer
 
 |Type|Name|Description|Schema|Default|
 |---|---|---|---|---|
-|**Query**|**address**  <br>*required*|转出地址|string|`"SLUjc1JSj9oqYkq7fdUFZaGeG8uisYVRihbm"`|
+|**Query**|**address**  <br>*required*|转出地址(to)|string|`"SLUjc1JSj9oqYkq7fdUFZaGeG8uisYVRihbm"`|
 |**Query**|**amount**  <br>*required*|金额|string|`"10"`|
 |**Query**|**coinUnit**  <br>*optional*|币种单位，默认为主币SLU|string|`"SLU"`|
 
