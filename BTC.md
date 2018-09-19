@@ -160,7 +160,7 @@ GET /rpc/transfer
 
 |Type|Name|Description|Schema|Default|
 |---|---|---|---|---|
-|**Query**|**address**  <br>*required*|转出地址|string|`"12gXC6KDsy8my7xUtCYgNH6oUj1JAJ9LZn"`|
+|**Query**|**address**  <br>*required*|转出地址（to）|string|`"12gXC6KDsy8my7xUtCYgNH6oUj1JAJ9LZn"`|
 |**Query**|**amount**  <br>*required*|金额|string|`"10"`|
 
 
